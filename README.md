@@ -10,7 +10,7 @@ It is simple webScraper
 ## Notice
 you need python mudules
 - bs4 `$ python -m pip install bs4`
--lxml `$ python -m pip install lxml`
--requests `$ python -m pip install requests`
+- lxml `$ python -m pip install lxml`
+- requests `$ python -m pip install requests`
 
 This scraper may not work due to target page change
