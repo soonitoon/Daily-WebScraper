@@ -1,7 +1,7 @@
 # daily-webScraper
 It is simple webScraper
 
-## It scrap...
+## It scraps...
 - todays weather
 - news headline
 - news about IT
